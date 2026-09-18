@@ -1,0 +1,5 @@
+interface:
+  display_name: "学术人才寻访 Agent"
+  short_description: "从论文批量筛选学术人才、匹配岗位并生成合规触达素材"
+  default_prompt: "Use $academic-talent-sourcing to rapidly screen authors from academic PDFs against a JD and export compliant outreach-ready candidate records."
+

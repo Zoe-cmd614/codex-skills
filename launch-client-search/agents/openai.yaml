@@ -1,0 +1,5 @@
+interface:
+  display_name: "猎头客户启动分析"
+  short_description: "生成客户卖点、人才画像、寻访话术与小麦 Prompt 的 Word 手册"
+  default_prompt: "使用 $launch-client-search 分析这个招聘客户，并输出包含客户卖点、人才画像、电话筛选、寻访话术和小麦找人 Prompt 的 Word 文档。"
+

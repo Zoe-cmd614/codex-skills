@@ -1,0 +1,8 @@
+interface:
+  display_name: "学术导师 Mapping"
+  short_description: "整理导师论文、学生、邮箱与 OpenReview 的公开证据表"
+  default_prompt: "Use $academic-advisor-mapping to map faculty publications and advisees, including homepages, current public professional emails, and verified OpenReview profiles."
+
+policy:
+  allow_implicit_invocation: true
+
